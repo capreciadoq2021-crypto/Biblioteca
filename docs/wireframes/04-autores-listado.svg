@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" font-family="Arial, Helvetica, sans-serif">
+<rect width="800" height="400" fill="#fff" stroke="#555" stroke-width="2"/>
+<rect x="0" y="0" width="800" height="48" rx="4" fill="#e9e9e9" stroke="#999"/>
+<text x="20" y="30" font-size="18" text-anchor="start" font-weight="bold" fill="#333">BibTum</text>
+<text x="120" y="30" font-size="14" text-anchor="start" font-weight="normal" fill="#333">Inicio</text>
+<text x="185" y="30" font-size="14" text-anchor="start" font-weight="normal" fill="#333">Libros</text>
+<text x="250" y="30" font-size="14" text-anchor="start" font-weight="normal" fill="#333">Categorías ▾</text>
+<text x="365" y="30" font-size="14" text-anchor="start" font-weight="normal" fill="#333">Administrador ▾</text>
+<text x="400" y="105" font-size="28" text-anchor="middle" font-weight="bold" fill="#333">Listado de autores</text>
+<rect x="600" y="125" width="120" height="34" rx="4" fill="#555" stroke="#555"/>
+<text x="660" y="147" font-size="14" text-anchor="middle" font-weight="bold" fill="#fff">Nuevo autor</text>
+<text x="110" y="190" font-size="14" text-anchor="middle" font-weight="bold" fill="#333">#</text>
+<text x="220" y="190" font-size="14" text-anchor="middle" font-weight="bold" fill="#333">Nombre</text>
+<text x="390" y="190" font-size="14" text-anchor="middle" font-weight="bold" fill="#333">Apellido</text>
+<text x="545" y="190" font-size="14" text-anchor="middle" font-weight="bold" fill="#333">Nacimiento</text>
+<text x="665" y="190" font-size="14" text-anchor="middle" font-weight="bold" fill="#333">Opciones</text>
+<line x1="80" y1="200" x2="720" y2="200" stroke="#555"/>
+<text x="110" y="223" font-size="13" text-anchor="middle" font-weight="normal" fill="#333">1</text>
+<text x="220" y="223" font-size="13" text-anchor="middle" font-weight="normal" fill="#333">Gabriel</text>
+<text x="390" y="223" font-size="13" text-anchor="middle" font-weight="normal" fill="#333">García Márquez</text>
+<text x="545" y="223" font-size="13" text-anchor="middle" font-weight="normal" fill="#333">1927-03-06</text>
+<rect x="631" y="210" width="16" height="16" rx="4" fill="#999" stroke="#666"/>
+<rect x="657" y="210" width="16" height="16" rx="4" fill="#999" stroke="#666"/>
+<rect x="683" y="210" width="16" height="16" rx="4" fill="#999" stroke="#666"/>
+<line x1="80" y1="236" x2="720" y2="236" stroke="#bbb"/>
+<text x="110" y="259" font-size="13" text-anchor="middle" font-weight="normal" fill="#333">2</text>
+<text x="220" y="259" font-size="13" text-anchor="middle" font-weight="normal" fill="#333">Isabel</text>
+<text x="390" y="259" font-size="13" text-anchor="middle" font-weight="normal" fill="#333">Allende</text>
+<text x="545" y="259" font-size="13" text-anchor="middle" font-weight="normal" fill="#333">1942-08-02</text>
+<rect x="631" y="246" width="16" height="16" rx="4" fill="#999" stroke="#666"/>
+<rect x="657" y="246" width="16" height="16" rx="4" fill="#999" stroke="#666"/>
+<rect x="683" y="246" width="16" height="16" rx="4" fill="#999" stroke="#666"/>
+<line x1="80" y1="272" x2="720" y2="272" stroke="#bbb"/>
+<text x="110" y="295" font-size="13" text-anchor="middle" font-weight="normal" fill="#333">3</text>
+<text x="220" y="295" font-size="13" text-anchor="middle" font-weight="normal" fill="#333">Carl</text>
+<text x="390" y="295" font-size="13" text-anchor="middle" font-weight="normal" fill="#333">Sagan</text>
+<text x="545" y="295" font-size="13" text-anchor="middle" font-weight="normal" fill="#333">1934-11-09</text>
+<rect x="631" y="282" width="16" height="16" rx="4" fill="#999" stroke="#666"/>
+<rect x="657" y="282" width="16" height="16" rx="4" fill="#999" stroke="#666"/>
+<rect x="683" y="282" width="16" height="16" rx="4" fill="#999" stroke="#666"/>
+<line x1="80" y1="308" x2="720" y2="308" stroke="#bbb"/>
+<text x="110" y="331" font-size="13" text-anchor="middle" font-weight="normal" fill="#333">…</text>
+<text x="220" y="331" font-size="13" text-anchor="middle" font-weight="normal" fill="#333">…</text>
+<text x="390" y="331" font-size="13" text-anchor="middle" font-weight="normal" fill="#333">…</text>
+<text x="545" y="331" font-size="13" text-anchor="middle" font-weight="normal" fill="#333">…</text>
+<rect x="631" y="318" width="16" height="16" rx="4" fill="#999" stroke="#666"/>
+<rect x="657" y="318" width="16" height="16" rx="4" fill="#999" stroke="#666"/>
+<rect x="683" y="318" width="16" height="16" rx="4" fill="#999" stroke="#666"/>
+<line x1="80" y1="344" x2="720" y2="344" stroke="#bbb"/>
+<text x="80" y="375" font-size="12" text-anchor="start" font-weight="normal" fill="#666">Opciones: ver · editar · eliminar</text>
+</svg>

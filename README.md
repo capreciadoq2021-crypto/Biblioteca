@@ -27,3 +27,7 @@ Aplicación web de biblioteca en PHP con PostgreSQL y Bootstrap 5.
 - `pages/`: vistas (HTML + PHP).
 - `server/`: consultas SQL que usa cada vista.
 - `database/`: script SQL del esquema y los datos de ejemplo.
+
+## Documentación
+
+Los documentos de análisis y diseño (arquitectura, casos de uso, UML, modelo de datos, wireframes, guía UI/UX y navegación) están en [docs/](docs/README.md).
